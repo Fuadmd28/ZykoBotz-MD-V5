@@ -44,10 +44,10 @@ const readMore = more.repeat(4001)
 global.sig = 'https://instagram.com/kabulsaputra21'
 global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
 global.sgh = 'https://github.com' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/DtwRdVWB33xET9i1R86feN' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://youtube.com/channel/UCEbvUCpxVGJjUUn-dF8zwuw'
+global.syt = 'https://youtube.com/channel/UCEbvUCpxVGJjUUn-dF8zwuw'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
@@ -116,7 +116,7 @@ global.pgopay = '6285775616873'
 global.plinkaja = '-' //link aja
 global.ppulsa = '6285775616873'
 global.ppulsa2 = '6285775616873'
-global.psaweria = 'https://saweria.co'
+global.psaweria = 'https://saweria.co/YanaMikuBOTz'
 global.donasikabul = 'Jasa Sewa 𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
