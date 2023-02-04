@@ -23,7 +23,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 ${htjava} *💌 Nama* : YanaMiku-BOTz
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal 
+${htjava} *⏰ Tanggal 13 Februari
 ${htjava} *🎨 Umur* : 27 🥶
 ${htjava} *🧮 Kelas* : private
 ${htjava} *🧩 Hobby* : Nonton anime"
