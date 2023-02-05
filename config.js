@@ -54,26 +54,26 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6285775616873', '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇', true],
-['6285775616873', '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇', true]
+['6283865444700', '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇', true],
+['6283865444700', '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '18504178231' //pasang no bot lo 
-global.nomorown = '6285775616873' //pasang no own lo
-global.nomorown1 = '6285775616873'
-global.nomorown2 = '6285775616873'
+global.nomorown = '6283865444700' //pasang no own lo
+global.nomorown1 = '6283865444700'
+global.nomorown2 = '6283865444700'
 global.nomorwa = '0'
-global.nameown = '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇'
-global.gcname = '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇'
-global.author = 'Created By 𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇'
-global.namabot = '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇'
-global.namebot = '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇'
-global.packname2 = '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇'
+global.nameown = 'Elxbotz'
+global.gcname = 'Elxbotz'
+global.author = 'Created By Ejaa_storee'
+global.namabot = 'Ejaa_storee'
+global.namebot = 'Ejaa_storee'
+global.packname2 = 'Ejaa_storee'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇'
+global.nameown1= '
 global.nameown2 = '𝗬𝗮𝗻𝗮𝗠𝗶𝗸𝘂-𝗕𝗢𝗧𝘇'
 
 /*============== STAFF ==============*/
